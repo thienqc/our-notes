@@ -1,18 +1,10 @@
-# Quartz v4
+# Khu vườn tri thức
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+![](https://i.imgur.com/SDj85IN.png)
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Mình muốn vẽ một bức tranh. Bức tranh về một khu vườn, nơi mà ai cũng có thể đến ngắm cảnh, hít thở hương hoa, chăm sóc khu vườn, hoặc trồng cây theo ý muốn của mình.
+Những loài cây và hoa ở đây đều là thành quả của những hạt giống tri thức mà bạn đã gieo trồng. Chúng sẽ cùng nhau tạo nên một khu vườn tri thức đẹp đẽ, một di sản bền vững qua nhiều thế hệ.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Để biến bức tranh về khu vườn tri thức này thành hiện thực, mình cần sự trợ giúp và đồng hành của các bạn.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Mảnh vườn đầu tiên mình muốn khai phá là về PHƯƠNG PHÁP GHI CHÚ. Đây sẽ là tập hợp những bài viết về chủ đề GHI CHÚ do chính các bạn viết nên, một sản phẩm đến từ Việt Nam 🇻🇳!
