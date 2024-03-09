@@ -1,0 +1,4 @@
+
+<font color="red", size="10">L</font>oren ipsum dolor sit amet, consectetur adipiscing elit. Donec eu turpis et tellus feugiat iaculis in nec turpis. Aliquam ullamcorper urna id molestie posuere. Nulla pulvinar malesuada enim a scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In cursus maximus quam, id blandit orci luctus in. Pellentesque at posuere ex.
+
+<font style="font-family: Bell MT, sans-serif; font-size:55pt; font-style:regular; width: .85em; line-height: 53px; float: left; color: #e69f55; border: solid #FE9626A6; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; padding-left: 5px; margin-right: 5px; margin-bottom: -5px;">L</font>oren ipsum dolor sit amet, consectetur adipiscing elit. Donec eu turpis et tellus feugiat iaculis in nec turpis. Aliquam ullamcorper urna id molestie posuere. Nulla pulvinar malesuada enim a scelerisque. 
