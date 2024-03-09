@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "vi-VN",
     baseUrl: "thienqc.github.io/our-notes/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "Template", ".obsidian"],
     defaultDateType: "created",
     theme: {
       cdnCaching: true,
